@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1590504438 source:c:\users\jai\desktop\project 6\project 6\public release\func.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"func.h"
+
+1590249118 c:\users\jai\desktop\project 6\project 6\public release\func.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
+1590479885 source:c:\users\jai\desktop\project 6\project 6\public release\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"func.h"
+
